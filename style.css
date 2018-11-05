@@ -1,16 +1,30 @@
 body {
 	height: 100%;
-	margin: 0;
+	margin: 1;
 	width: 100%;
 }
 
 h1 {
 	font-size: 32px;
+  font-family: Palatino, 'Palatino Linotype', sans-serif;
+}
+
+h5 {
+  font-size: 16px;
   font-family: Palatino, 'Palatino Linotype', serif;
 }
 
-h2 {
-	font-size: 56px;
+h6 {
+  font-size: 16px;
+  font-family: Palatino, 'Palatino Linotype', serif;
+  font-weight: bold;
+}
+
+h7 {
+  font-size: 16px;
+  font-family: Palatino, 'Palatino Linotype', serif;
+  font-weight: bold;
+  text-align: center;
 }
 
 p {
