@@ -9,24 +9,26 @@ h1 {
   font-family: Palatino, 'Palatino Linotype', sans-serif;
 }
 
-h5 {
+p1 {
   font-size: 16px;
   font-family: Palatino, 'Palatino Linotype', serif;
+  margin-top: 0px;
+  margin-bottom: 0px
 }
 
-h6 {
-  font-size: 16px;
-  font-family: Palatino, 'Palatino Linotype', serif;
-  font-weight: bold;
-}
-
-h7 {
+p2 {
   font-size: 16px;
   font-family: Palatino, 'Palatino Linotype', serif;
   font-weight: bold;
-  text-align: center;
+  margin-top: 0px;
+  margin-bottom: 0px
 }
 
-p {
-	font-size: 2rem;
+p3 {
+  font-size: 16px;
+  font-family: Palatino, 'Palatino Linotype', serif;
+  font-weight: bold;
+  text-align: right;
+  margin-top: 0px;
+  margin-bottom: 0px
 }
