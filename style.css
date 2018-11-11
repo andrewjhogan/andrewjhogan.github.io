@@ -13,7 +13,7 @@ p1 {
   font-size: 16px;
   font-family: Palatino, 'Palatino Linotype', serif;
   margin-top: 0px;
-  margin-bottom: 0px
+  margin-bottom: 0px;
 }
 
 p2 {
@@ -21,7 +21,7 @@ p2 {
   font-family: Palatino, 'Palatino Linotype', serif;
   font-weight: bold;
   margin-top: 0px;
-  margin-bottom: 0px
+  margin-bottom: 0px;
 }
 
 p3 {
@@ -30,5 +30,6 @@ p3 {
   font-weight: bold;
   text-align: right;
   margin-top: 0px;
-  margin-bottom: 0px
+  margin-bottom: 0px;
+  margin-right: 100px;
 }
